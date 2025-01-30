@@ -1,0 +1,11 @@
+*{
+    font-size: large;
+    font-family: sans-serif;
+    color: brown;
+}
+
+div{
+    border: 1px solid   blueviolet;
+    border-radius: 5px;
+    background-color: antiquewhite;
+}
